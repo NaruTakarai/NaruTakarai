@@ -1,8 +1,8 @@
-## Hey Devs! Podem me chamar de Naru!
+## Hey You! Pode me chamar de Naru!
 
 Trabalho com Pesquisa na Universidade Estadual de Campinas-UNICAMP, estou agora aprendendo mais sobre algo que sempre achei muito divertido e interessante: front e back-end.
 
-### Vamos nos conectar?
+## Add
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/monica_poleti)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mônica-poleti-59869925)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:monica_poleti@hotmail.com)
