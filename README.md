@@ -1,6 +1,6 @@
 ## Hey You! Pode me chamar de Naru!
 
-Trabalho com Pesquisa na Universidade Estadual de Campinas-UNICAMP, estou agora aprendendo mais sobre algo que sempre achei muito divertido e interessante: front e back-end.
+Trabalho com Pesquisa na Universidade Estadual de Campinas-UNICAMP, estou agora buscando oportunidades de freelance com front-end.
 
 ## Add
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/monica_poleti)
