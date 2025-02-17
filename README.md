@@ -15,6 +15,7 @@ Trabalho com Pesquisa na Universidade Estadual de Campinas-UNICAMP, estou agora 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[!Cypress](https://img.shields.io/badge/logo-cypress-green?logo=cypress)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaruTakarai&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
